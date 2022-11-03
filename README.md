@@ -22,7 +22,7 @@
   🌱 I’m currently learning everything 🤣
   🥅 2022 Goals: work from home
   🌟 Main languages: JavaScript
-  🤔 I’m currently open for: <b>An Internship</b> or a new <b>job opportunity</b>, this is <a href=# target="_blank">MY RESUME.</a>
+  🤔 I’m currently open for: <b>An Internship</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/13BL9GBxDpaQprOni8wqT0iD4j-0ZhYPN/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 
 <br/>
@@ -31,7 +31,7 @@
 🤝 Connect with me
   <p>
     <a href="mailto:quinojuan.@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/juan-carlos-quino-78424122b"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/quinojuan"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
   </p>
 </h2>
 
