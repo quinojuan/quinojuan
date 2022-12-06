@@ -22,7 +22,7 @@
   🌱 I’m currently learning everything 🤣
   🥅 2022 Goals: work from home
   🌟 Main languages: JavaScript
-  🤔 I’m currently open for: <b>An Internship</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/13BL9GBxDpaQprOni8wqT0iD4j-0ZhYPN/view?usp=sharing" target="_blank">MY RESUME.</a>
+  🤔 I’m currently open for: <b>An Internship</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1Dw3hCh29JgDVc2LjOb5m9mM0wHpe4Do-/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 
 <br/>
