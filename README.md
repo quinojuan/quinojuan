@@ -16,7 +16,7 @@
 </div>
 
 <pre>
-  💻 I am a Full Stack Developer and computer technician
+  💻 I am a Full Stack Developer!
   📚 I have been using computers since I was 12 years old.
   📝 I have a strong interest in develop web app
   🌱 I’m currently learning everything 🤣
