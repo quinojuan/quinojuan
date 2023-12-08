@@ -57,6 +57,7 @@
 
   <p>
       <a href="https://reactjs.org"><img alt="React" src="https://img.shields.io/badge/React%20-%23327FC7.svg?style=for-the-badge&logo=React&logoColor=white" target="_blank"></a>
+      <a href="https://reactnative.dev"><img alt="React" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank"></a>
       <a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/Redux-%237209B7.svg?style=for-the-badge&logo=Redux&logoColor=white" target="_blank"></a>
       
 <br/>
