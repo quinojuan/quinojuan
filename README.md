@@ -79,7 +79,7 @@
       <a href="https://www.mongodb.com"><img alt="Mongo" src ="https://img.shields.io/badge/MongoDB-%2334A853.svg?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
       <a href="https://firebase.google.com"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?style=for-the-badge&logo=firebase&logoColor=white" target="_blank"></a>
       <a href="https://www.netlify.com"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23327FC7.svg?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
-      <a href="https://www.vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=%2361DAFB" target="_blank"></a>
+      <a href="https://www.vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%2361DAFB.svg?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
   </p>
 
   <br/>
