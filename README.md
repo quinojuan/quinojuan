@@ -79,7 +79,7 @@
       <a href="https://www.mongodb.com"><img alt="Mongo" src ="https://img.shields.io/badge/MongoDB-%2334A853.svg?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
       <a href="https://firebase.google.com"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?style=for-the-badge&logo=firebase&logoColor=white" target="_blank"></a>
       <a href="https://www.netlify.com"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23327FC7.svg?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
-      <a href="https://www.vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%2320232a.svg?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
+      <a href="https://www.vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
   </p>
 
   <br/>
@@ -89,7 +89,7 @@
   <p>
       <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
       <a href="https://www.postman.com"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" target="_blank"></a>
-      <a href="https://insomnia.rest/"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-20232a?style=for-the-badge&logo=insomnia&logoColor=5849BE" target="_blank"></a>
+      <a href="https://insomnia.rest/"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" target="_blank"></a>
       <a href="https://code.visualstudio.com"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" target="_blank"></a>
   </p>
 
